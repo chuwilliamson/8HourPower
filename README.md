@@ -2,23 +2,25 @@
 
 Create a game in 8 hours with the following assets.
 
+## Theme: "The cat is a lie, Mom's Spaghetti?"
+
+## Specificiations: Made in Unity, No Internet, Must have fun, Must Be Solo. 
+
 ## You can
 
-not add assets.
+- not add assets.
 
-not remove assets.
+- not remove assets.
+
+Why are you so worried about these assets.
 
 ## You can not
 
 not print out the Unity Documentation on real world real life paper.
 
-Why are you so worried about these assets.
+If you are confused read it again.
 
-Are you confused?
 
-# Theme: "The cat is a lie, Mom's Spaghetti?"
-
-# Specificiations: Made in Unity, No Internet, Must have fun, Must Be Solo. 
 
 
 
