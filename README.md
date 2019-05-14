@@ -25,16 +25,3 @@ not print out the Unity Documentation on real world real life paper.
 If you are confused read it again.
 
 https://gph.is/1URgd3m
-
-
-
-
-
-
-
-
-
-
-
-
-TRICK LUH DA KEEDS
